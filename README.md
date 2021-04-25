@@ -34,16 +34,11 @@ https://www.ndbc.noaa.gov/station_page.php?station=46404
   - Earthquake rate during the volcanic eruption
 - after.csv
   - Earthquake rate after the volcanic eruption
+- tidal_data.txt
+  - Height of water column record by buoy
 
 # Python files
 Here shows all the python files and their usage.
-- plot_raw.py
-  - plotting earthquake data
-  - make the new formatted earthquake data
-- seperate_data.py
-  - calculate the earthquake rate per hour
-  - seperate the data into before, during and after
-  - plot earthquake rate
 - periodicity_before.py
   - time series, power/amplitude spectral density for before the volcanic eruption
 - periodicity_during.py
@@ -54,6 +49,8 @@ Here shows all the python files and their usage.
   - time series, power/amplitude spectral density for the whole set of data
 - tide.py
   - Tide data processing, missing data processing, Fourier transform and power spectrum plotting
+- functions.py
+  - Useful functions from tutorial that uses in this project
 
 # Reference
 Wilcock, W. S. D., M. Tolstoy, F. Waldhauser, C. Garcia, Y. J. Tan, D. R. Bohnenstiehl, J. Caplan-Auerbach, R. P. Dziak, A. Arnulf, & M. E. Mann (2016). Seismic constraints on caldera dynamics from the 2015 Axial Seamount eruption, Science, 354, 1395-1399. and
