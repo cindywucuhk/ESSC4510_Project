@@ -36,7 +36,7 @@ https://www.ndbc.noaa.gov/station_page.php?station=46404
   - Earthquake rate during the volcanic eruption
 - after.csv
   - Earthquake rate after the volcanic eruption
-- Overall_earthquake_rate.csv
+- overall_earthquake_rate.csv
   - Earthquake rate
 - tidal_data.txt
   - Height of water column record by buoy
