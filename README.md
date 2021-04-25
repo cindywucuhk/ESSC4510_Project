@@ -39,6 +39,8 @@ https://www.ndbc.noaa.gov/station_page.php?station=46404
 
 # Python files
 Here shows all the python files and their usage.
+- earthquake_data_processing.py
+  - download, to .CSV file, seperate the data into 3 parts
 - periodicity_before.py
   - time series, power/amplitude spectral density for before the volcanic eruption
 - periodicity_during.py
