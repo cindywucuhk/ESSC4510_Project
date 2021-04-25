@@ -24,6 +24,8 @@ Tidal data of the west coast of the USA
 https://www.ndbc.noaa.gov/station_page.php?station=46404
 
 ### Data lists
+- earthquake_data.txt
+  - raw earthquake data
 - earthquake_data_new.csv
   - New formatted earthquake data
 - earthquake_data.csv
@@ -34,6 +36,8 @@ https://www.ndbc.noaa.gov/station_page.php?station=46404
   - Earthquake rate during the volcanic eruption
 - after.csv
   - Earthquake rate after the volcanic eruption
+- Overall_earthquake_rate.csv
+  - Earthquake rate
 - tidal_data.txt
   - Height of water column record by buoy
 
